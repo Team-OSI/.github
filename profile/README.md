@@ -16,8 +16,8 @@
 
 프로젝트 기간 : **2024.06.20 ~ 2024.07.27 (5주)**
 
-팀원 : [**전병준**](https://github.com/jun9898) (BE), [**김태욱**](https://github.com/twk00) (FE, BE), 
-[**정승호**](https://github.com/seungho-jg) (FE), [**박유주**](https://github.com/youjuice) (FE)
+팀원 : [**전병준**](https://github.com/jun9898) (BE), [**정승호**](https://github.com/seungho-jg) (FE), 
+[**박유주**](https://github.com/youjuice) (FE), [**김태욱**](https://github.com/twk00) (FE,BE)
 
 #### 기술 스택
 | 분류 | 기술                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 
