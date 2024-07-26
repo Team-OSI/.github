@@ -14,12 +14,12 @@
 
 ## 프로젝트 개요
 
-📅 프로젝트 기간 : **2024.06.20 ~ 2024.07.27 (5주)**
+프로젝트 기간 : **2024.06.20 ~ 2024.07.27 (5주)**
 
-⚡ 팀원 : [**전병준**](https://github.com/jun9898) (BE), [**김태욱**](https://github.com/twk00) (FE, BE), 
+팀원 : [**전병준**](https://github.com/jun9898) (BE), [**김태욱**](https://github.com/twk00) (FE, BE), 
 [**정승호**](https://github.com/seungho-jg) (FE), [**박유주**](https://github.com/youjuice) (FE)
 
-#### 📎 기술 스택
+#### 기술 스택
 | 분류 | 기술                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 
 |-----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |**Frontend**| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.js&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=WebRTC&logoColor=FFFFFF"/>  |
