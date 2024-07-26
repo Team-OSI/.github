@@ -1,8 +1,4 @@
-## ROCKI BIKI
-
-<div style="text-align:center">
-  <img src="./rockibiki_logo.webp" width="250" alt="ROCKIBIKI 로고">
-</div>
+![RockiBiki_Logo](./logo.png)
 
 ## 목차
 ___
