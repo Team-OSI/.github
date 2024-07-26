@@ -32,7 +32,7 @@
 
 ## 서비스 소개
 
-서비스 소개 영상 : [바로가기]()
+서비스 소개 영상 : [바로가기](https://youtu.be/d_39mSr9Nx0?si=9AxYaQhVkAxNksTS)
 
 🍀 [**PLAY ROCKI-BIKI!**](https://rocki-biki.com/)
 
