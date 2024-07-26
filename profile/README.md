@@ -1,5 +1,7 @@
 ![RockiBiki_Logo](./logo.png)
 
+<br>
+
 ## 목차
 
 1. [프로젝트 개요](#프로젝트-개요)
@@ -34,9 +36,13 @@
 
 [**🍀 PLAY ROCKI-BIKI!**](https://rocki-biki.com/)
 
+<br>
+
 ## 아키텍쳐
 
 ![아키텍쳐](./아키텍쳐.png)
+
+<br>
 
 ## 프로젝트 포스터
 
