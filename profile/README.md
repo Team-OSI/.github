@@ -34,7 +34,12 @@
 
 서비스 소개 영상 : [바로가기](https://youtu.be/d_39mSr9Nx0?si=9AxYaQhVkAxNksTS)
 
+서비스 발표 영상 : [바로가기](https://youtu.be/8egGjd-YRAU)
+
 🍀 [**PLAY ROCKI-BIKI!**](https://rocki-biki.com/)
+
+📽️ [**PROJECT TRACKER!**](https://absorbed-beet-7cd.notion.site/TEAM-OutSideIn-14465571a9544d84b0db121b244711b2?pvs=4)
+
 
 <br>
 
